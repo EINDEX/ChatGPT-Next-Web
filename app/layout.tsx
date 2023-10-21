@@ -36,6 +36,7 @@ export default function RootLayout({
         <script src="/serviceWorkerRegister.js" defer></script>
       </head>
       <body>{children}</body>
+      <script async src="https://umami.eindex.me/script.js" data-website-id="33074eba-dc53-481c-8f2f-0d1b93ac33de"></script>
     </html>
   );
 }
